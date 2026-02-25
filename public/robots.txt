@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://sprabha.io/sitemap.xml
+Sitemap: https://sprabha5.github.io/sitemap.xml
