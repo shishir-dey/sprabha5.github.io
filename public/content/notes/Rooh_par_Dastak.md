@@ -1,9 +1,9 @@
-title	date	tags	pinned
-Rooh Par Dastak
-2026-02-25T12:19:00
-Poem 2026
-true
-
+---
+title: "Rooh Par Dastak"
+date: "2026-02-25T12:21:00"
+tags: ["Poems 2026"]
+pinned: true
+---
 Waqt ke saath zindagi 
 guzar rahi hai,
 umar badh rahi hai.
