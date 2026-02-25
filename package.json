@@ -1,5 +1,5 @@
 {
-  "name": "sprabha.io",
+  "name": "sprabha5.github.io",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sprabha5/sprabha.io.git"
+    "url": "git+https://github.com/sprabha5/sprabha5.github.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sprabha5/sprabha.io/issues"
+    "url": "https://github.com/sprabha5/sprabha5.github.io/issues"
   },
-  "homepage": "https://github.com/sprabha5/sprabha.io#readme",
+  "homepage": "https://github.com/sprabha5/sprabha5.github.io#readme",
   "dependencies": {
     "@babel/core": "^7.27.1",
     "@babel/preset-env": "^7.27.2",
