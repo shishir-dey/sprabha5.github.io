@@ -1,3 +1,9 @@
+title	date	tags	pinned
+Rooh Par Dastak
+2026-02-25T12:19:00
+Poem 2026
+true
+
 Waqt ke saath zindagi 
 guzar rahi hai,
 umar badh rahi hai.
