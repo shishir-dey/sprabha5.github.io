@@ -23,7 +23,7 @@ This is the personal website of Shashi Prabha, an Electrical Engineering graduat
 1. **Clone the repository**
    ```bash
    git clone https://github.com/sprabha5/sprabha5.github.io.git
-   cd sprabha5.github.io
+   cd sprabha.io
    ```
 
 2. **Install dependencies**
