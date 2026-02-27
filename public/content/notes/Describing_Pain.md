@@ -1,5 +1,5 @@
 ---
-title: "Hello! 2026 Beginnings"
+title: "Describing Pain"
 date: "2026-02-15T23:27:00"
 tags: ["personal", "Poem 2026"]
 pinned: true
