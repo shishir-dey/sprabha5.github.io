@@ -1,7 +1,7 @@
 ---
 title: "Describing Pain"
 date: "2026-02-15T23:27:00"
-tags: ["personal", "Poem 2026"]
+tags: ["personal", "Poems 2026"]
 pinned: true
 ---
 
