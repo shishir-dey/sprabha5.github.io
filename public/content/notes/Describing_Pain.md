@@ -1,3 +1,10 @@
+---
+title: "Hello! 2026 Beginnings"
+date: "2026-02-15T23:27:00"
+tags: ["personal", "Poem 2026"]
+pinned: true
+---
+
 How will you describe pain,
 Pain which is inside you,
 Pain which you grew with,
