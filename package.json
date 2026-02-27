@@ -1,50 +1,38 @@
 {
   "name": "sprabha5.github.io",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack serve --open",
-    "build": "webpack",
-    "format": "prettier --write .",
-    "deploy": "gh-pages -d build"
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sprabha5/sprabha5.github.io.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sprabha5/sprabha5.github.io/issues"
-  },
-  "homepage": "https://github.com/sprabha5/sprabha5.github.io#readme",
   "dependencies": {
-    "@babel/core": "^7.27.1",
-    "@babel/preset-env": "^7.27.2",
-    "@babel/preset-react": "^7.27.1",
-    "@tailwindcss/postcss": "^4.1.7",
-    "babel-loader": "^10.0.0",
-    "html-webpack-plugin": "^5.6.3",
-    "lucide-react": "^0.511.0",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0",
-    "webpack": "^5.99.8",
-    "webpack-cli": "^6.0.1"
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^7.3.8",
+    "@mui/material": "^7.3.8",
+    "gray-matter": "^4.0.3",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-markdown": "^10.1.0",
+    "react-router-dom": "^7.13.1"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.21",
-    "copy-webpack-plugin": "^13.0.0",
-    "css-loader": "^7.1.2",
+    "@eslint/js": "^9.39.1",
+    "@types/node": "^24.10.1",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.1",
+    "eslint": "^9.39.1",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.4.24",
     "gh-pages": "^6.3.0",
-    "mini-css-extract-plugin": "^2.9.2",
-    "postcss": "^8.5.3",
-    "postcss-loader": "^8.1.1",
-    "prettier": "^3.5.3",
-    "style-loader": "^4.0.0",
-    "tailwindcss": "^4.1.7",
-    "webpack-dev-server": "^5.2.1"
+    "globals": "^16.5.0",
+    "typescript": "~5.9.3",
+    "typescript-eslint": "^8.48.0",
+    "vite": "^7.3.1"
   }
 }
