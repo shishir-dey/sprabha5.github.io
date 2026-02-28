@@ -2,7 +2,7 @@
 title: "Rooh Par Dastak"
 date: "2026-02-25T12:21:00"
 tags: ["Poems 2026"]
-pinned: true
+pinned: false
 ---
 Waqt ke saath zindagi 
 guzar rahi hai,
