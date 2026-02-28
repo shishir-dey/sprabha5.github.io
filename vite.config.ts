@@ -3,6 +3,8 @@ import path from 'node:path';
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
+const siteDomain = 'shashiprabha.com';
+
 const sitemapPlugin = () => {
   const sitemapPath = path.resolve(__dirname, 'sitemap.xml');
 
@@ -36,9 +38,19 @@ const sitemapPlugin = () => {
   };
 };
 
+const cnamePlugin = () => {
+  return {
+    name: 'cname-plugin',
+    closeBundle() {
+      const outPath = path.resolve(__dirname, 'dist', 'CNAME');
+      writeFileSync(outPath, `${siteDomain}\n`);
+    },
+  };
+};
+
 // https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [react(), sitemapPlugin()],
+  plugins: [react(), sitemapPlugin(), cnamePlugin()],
   base: '/',
   publicDir: 'public',
   build: {
