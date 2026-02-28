@@ -54,15 +54,6 @@ export default defineConfig({
   base: '/',
   publicDir: 'public',
   build: {
-    outDir: 'dist',
-    rollupOptions: {
-      output: {
-        manualChunks: {
-          vendor: ['react', 'react-dom', 'react-router-dom'],
-          mui: ['@mui/material', '@mui/icons-material', '@emotion/react', '@emotion/styled'],
-          markdown: ['react-markdown', 'gray-matter']
-        }
-      }
-    }
-  }
+    outDir: 'dist'
+  },
 });
