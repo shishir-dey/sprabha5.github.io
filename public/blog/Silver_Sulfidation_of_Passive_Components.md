@@ -1,4 +1,8 @@
-# Beyond the Silicon: Why Component Packaging is Critical for Circuit Reliability
+ ---
+title: "Beyond the Silicon: Why Component Packaging is Critical for Circuit Reliability"
+date: "2026-03-6T21:03:00"
+tags: ["power electronics", "electrical engineering", "Practical Learning", "Failure Analysis"]
+---
 
 ## Introduction
 I recently learnt about the **Silver Sulfidation** of passive components. Which made me curios to do the analysis to understand it, this study highlighted a critical distinction in reliability engineering: **"Package-Level Failures" vs. "Die-Level Failures"**.
