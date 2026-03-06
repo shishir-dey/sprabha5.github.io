@@ -2,7 +2,7 @@
 title: "Nostalgia is Now"
 date: "2026-03-05T23:56:00"
 tags: ["Journal"]
-pinned: true
+pinned: false
 ---
 I just realised while listening to a very old song that it's been 16 years since 2010, very Nostalgic feeling it raised.  I was 7 year old then a kid and  now an adult and life is completly different, I am different,  I could have never imagined that I'll be someone like what I am now but here it is the truth the reality I am living in, and  I don't know what life will like look after 15 years form now, How much it will change,  I know one thing things have changed a lot in this past 16 years and the speed with which things changed was much greater than at the rate things will change now.
 
