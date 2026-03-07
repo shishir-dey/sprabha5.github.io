@@ -1,3 +1,9 @@
+---
+title: "We Never Stop Preparing"
+date: "2026-03-07T14:00:00"
+tags: ["Reflection"]
+pinned: false
+---
 Dear Diary!
 It's 7 March 2026, 2 PM.
 
