@@ -14,17 +14,22 @@ Welcome to my curated collection of resources. This repository serves as a track
 **Focus:** DC-DC Topologies & Small-Signal Modeling  
 **Status:** 📖 Active Study (Chapter 5: Converter Modeling)  
 **Key Takeaway:** Essential for refining my **Flyback Converter** designs and understanding state-space averaging for complex systems.
+
 <br clear="left"/>
 
 ---
+
 ## ⚡ Technical Reference Archive
+
 Comprehensive list of textbooks and manuals for power electronics and circuit simulation.
+
 | Title | Author | Status | Category |
 | :--- | :--- | :---: | :--- |
 | *Power Electronics* | Daniel Hart | ✅ | Core Fundamentals |
 | *Switching Power Supplies* | Abraham Pressman | 📖 | Magnetics & EMI |
 | *The Art of Electronics* | Horowitz & Hill | 📖 | Discrete Design |
 | *Vienna Rectifier Design Guide* | Technical Papers | ✅ | Power Factor Correction |
+
 ---
 
 ## 🛠️ Simulation & Automation Toolkit
@@ -33,18 +38,24 @@ Interactive checklist for mastering simulation tools and automation scripting.
 
 <details>
 <summary><b>💻 LTspice & QSPICE Resources</b></summary>
+
 <br>
+
 - [x] **The LTspice IV/XVII Guide** - Gilles Brocard
 - [x] **Switch-Mode Power Supply Simulation** - Christophe Basso
 - [ ] **QSPICE Advanced Modeling** - (Digital/Analog Mixed Signal)
+
 </details>
 
 <details>
 <summary><b>🐍 Automation & Equipment Control</b></summary>
+
 <br>
+
 - [x] **Keysight Command Expert Documentation** (Automation validation)
 - [ ] **Python for Test and Measurement** - (Instrument Control)
 - [ ] **SCPI Command Reference** - (Zener Diode Reliability Testing)
+
 </details>
 
 ---
@@ -55,10 +66,13 @@ A collection of works that balance the logic of engineering with the soul of art
 
 <details>
 <summary><b>✍️ Current Reading List</b></summary>
+
 <br>
+
 1. *Letters to a Young Poet* — Rainer Maria Rilke
 2. *The Sun and Her Flowers* — Rupi Kaur
 3. *Original Journal Entries (2025-26)* — (Self-authored)
+
 </details>
 
 ---
